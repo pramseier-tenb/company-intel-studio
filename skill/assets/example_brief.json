@@ -1,0 +1,36 @@
+{
+  "company": "Vectra AI",
+  "title": "Vectra AI Intelligence Briefing",
+  "artifact_name": "Vectra AI Daily Intel",
+  "badge": "PRIVATE · NDR / XDR",
+  "updated": "June 5, 2026",
+  "description": "Daily Vectra AI intelligence briefing with news, product updates, competitive landscape, and a private-company financial snapshot.",
+  "theme": {
+    "dark": "#4c1d95",
+    "accent": "#6d28d9",
+    "light_row": "#f7f4fc",
+    "border": "#e0d4f5"
+  },
+  "financials": [
+    {"label": "Ownership", "value": "Private", "sub": "Blackstone · TCV · Accel"},
+    {"label": "Est. Valuation", "value": "~$1.4B", "sub": "Series G · Oct 2025"},
+    {"label": "Annual Recurring Rev.", "value": "~$120M", "sub": "2025 estimate"},
+    {"label": "Total Raised", "value": "~$425M", "sub": "~15 rounds"},
+    {"label": "Headcount", "value": "~666", "sub": "HQ: San Jose, CA"}
+  ],
+  "news": [
+    {"date": "June 3, 2026", "title": "Unified cloud network observability across all major clouds", "desc": "Extends agentless NDR across AWS, Azure, Google Cloud, and Oracle Cloud to stop hybrid threats faster."},
+    {"date": "March 24, 2026", "title": "Proactive exposure management for AI enterprises", "desc": "Adds active posture so SOC teams can pinpoint where their hybrid environment is exposed before attackers strike."}
+  ],
+  "products": [
+    {"title": "Attack Signal Intelligence + Active Posture", "desc": "AI-driven analytics that discover, deter, detect, and disrupt hybrid attackers across network, identity, cloud, SaaS, and data center."},
+    {"title": "AI-Assisted Search & Investigation", "desc": "Plain-language querying that cuts investigation time by up to three hours per case for early users."}
+  ],
+  "competitors": [
+    {"name": "Darktrace", "strength": "AI-native self-learning across network, email, cloud, OT, and endpoint", "advantage": "Higher-fidelity Attack Signal Intelligence and identity-aware prioritization", "level": "HIGH"},
+    {"name": "ExtraHop RevealX", "strength": "Deep packet inspection and line-rate network visibility", "advantage": "Stronger hybrid/identity coverage and AI-driven triage", "level": "HIGH"},
+    {"name": "CrowdStrike Falcon", "strength": "Dominant endpoint/XDR platform encroaching on NDR/XDR", "advantage": "Purpose-built network & identity detection independent of endpoint agents", "level": "MEDIUM"},
+    {"name": "Cisco / Corelight", "strength": "Network incumbency and Zeek-based open-source flexibility", "advantage": "Turnkey AI-driven detection vs. heavier tuning overhead", "level": "LOW"}
+  ],
+  "footer": "Competitive-intelligence briefing generated from public web sources. Private-company financials are estimates and vary by source."
+}

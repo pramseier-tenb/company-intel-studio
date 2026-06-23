@@ -1,0 +1,42 @@
+{
+  "company": "Brinqa",
+  "title": "Brinqa Intelligence Briefing",
+  "artifact_name": "Brinqa Daily Intel",
+  "badge": "PRIVATE · EXPOSURE MGMT",
+  "updated": "June 22, 2026",
+  "description": "Daily Brinqa intelligence briefing with news, product updates, competitive landscape, and a private-company financial snapshot.",
+  "theme": {
+    "dark": "#0b3d91",
+    "accent": "#1d4ed8",
+    "light_row": "#eef3fc",
+    "border": "#cfdcf5"
+  },
+  "financials": [
+    {"label": "Ownership", "value": "Private", "sub": "Insight Partners–backed"},
+    {"label": "Total Raised", "value": "~$110M", "sub": "Growth round · 2021"},
+    {"label": "Est. Revenue", "value": "~$18M", "sub": "3rd-party estimate"},
+    {"label": "Founded", "value": "2008", "sub": "HQ: Austin, TX"},
+    {"label": "Category", "value": "Exposure Mgmt", "sub": "RBVM · CTEM"}
+  ],
+  "news": [
+    {"date": "June 3, 2026", "title": "Partners with Horizon3.ai to advance CTEM", "desc": "Strategic technology partnership to operationalize Continuous Threat Exposure Management, strengthen risk-based vulnerability management, and advance Adversarial Exposure Validation."},
+    {"date": "May 5, 2026", "title": "Platform 12.1 release ships", "desc": "Latest 12.x release (12.1.222) continues a steady cadence of platform and integration enhancements across the exposure lifecycle."},
+    {"date": "February 18, 2026", "title": "Introduces AI agents for continuous exposure management", "desc": "Launches the AI Attribution Agent and AI Deduplication Agent to resolve unclear asset ownership and duplicate exposure signals while keeping humans in control."},
+    {"date": "February 18, 2026", "title": "Next-generation platform architecture unveiled", "desc": "A cloud-scaling, high-resiliency architecture built to process from millions to billions of findings for AI-driven workloads."},
+    {"date": "January 6, 2026", "title": "Named to Built In's 2026 Best Places to Work", "desc": "Recognized for the second consecutive year amid a year of record growth and expanded leadership."}
+  ],
+  "products": [
+    {"title": "AI Attribution & Deduplication Agents", "desc": "Embedded AI agents that continuously fix unclear asset ownership and de-duplicate exposure signals across Brinqa's trusted data foundation, with explainable, measurable recommendations."},
+    {"title": "Next-Generation Platform Architecture", "desc": "Dynamic cloud-scaling, high-resiliency core that scales from millions to billions of findings while maintaining performance and continuous processing."},
+    {"title": "Bring Your Own AI Agent (BYOAI)", "desc": "The first exposure management platform to support a bring-your-own-agent model, letting enterprises plug their own agents into the platform."},
+    {"title": "BrinqaIQ", "desc": "AI-powered decisioning layer that turns unified exposure data into smarter, prioritized remediation guidance."},
+    {"title": "Unified Exposure Management Platform", "desc": "Tool-agnostic data fabric that ingests and normalizes vulnerability and exposure data from any scanner to power RBVM and CTEM programs."}
+  ],
+  "competitors": [
+    {"name": "Tenable (Tenable One)", "strength": "Market-leading exposure platform anchored by Nessus, with broad native scanning across cloud, OT, AD, and CIEM, plus public-company scale", "advantage": "Tool-agnostic: aggregates and normalizes data from any scanner rather than locking customers into one vendor's telemetry", "level": "HIGH"},
+    {"name": "Qualys (TruRisk / VMDR)", "strength": "Leading cloud-based VMDR with massive scale and integrated scanning plus remediation", "advantage": "Unifies third-party scanner data and customizable risk modeling without requiring Qualys sensors", "level": "HIGH"},
+    {"name": "Vulcan Cyber", "strength": "Strong vulnerability remediation orchestration and risk-based prioritization", "advantage": "Broader risk data fabric, embedded AI agents, and enterprise scale across billions of findings", "level": "MEDIUM"},
+    {"name": "Cisco Vuln Mgmt (Kenna)", "strength": "Pioneer of risk-based prioritization, backed by Cisco's scale and threat intelligence", "advantage": "Dedicated, customizable exposure data model and tool-agnostic integrations vs. a bundled module", "level": "LOW"}
+  ],
+  "footer": "Competitive-intelligence briefing generated from public web sources on June 22, 2026. Brinqa is privately held; financial figures are third-party estimates and vary by source."
+}

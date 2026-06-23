@@ -1,0 +1,39 @@
+{
+  "company": "Tanium",
+  "title": "Tanium Intelligence Briefing",
+  "artifact_name": "Tanium Daily Intel",
+  "badge": "PRIVATE · PRE-IPO",
+  "updated": "June 1, 2026",
+  "description": "Daily Tanium intelligence briefing with news, product updates, competitive landscape, and a private-company financial snapshot.",
+  "theme": {"dark": "#064d2c", "accent": "#0b8f4e", "light_row": "#f3faf6", "border": "#cfe9da"},
+  "financials": [
+    {"label": "Ownership", "value": "Private", "sub": "TPG · a16z · Fidelity"},
+    {"label": "Est. Valuation", "value": "~$9B", "sub": "2021 peak; secondary marks vary"},
+    {"label": "Annual Recurring Revenue", "value": "~$700M+", "sub": "growing"},
+    {"label": "Total Raised", "value": "~$1.1B", "sub": "6 rounds"},
+    {"label": "Headcount", "value": "~2,300", "sub": "+200 vs. 2024"}
+  ],
+  "news": [
+    {"date": "May 6, 2026", "title": "ServiceNow partnership: ITOM AI Prime powered by Tanium", "desc": "Joint Autonomous IT solution integrating the Tanium Autonomous IT Platform with ServiceNow IT Operations Management to detect, resolve, and verify issues without manual intervention."},
+    {"date": "May 5, 2026", "title": "Tanium Atlas launched", "desc": "A new autonomous operating system that gives a single IT or security operator the data, guidance, and reach to accomplish what once required an entire team."},
+    {"date": "March 24, 2026", "title": "AI & security innovations unveiled at RSAC 2026", "desc": "New platform capabilities across Security Operations, Exposure Management, and Endpoint Management, including Tanium Guardian Spotlight and expanded Tanium AI competencies."},
+    {"date": "February 19, 2026", "title": "Named to CRN's 2026 Security 100 List", "desc": "Recognized by The Channel Company among the top security vendors; two Tanium channel leaders also named to the 2026 CRN Channel Chiefs list."},
+    {"date": "January 15, 2026", "title": "Leader in IDC MarketScape for Windows Device Management", "desc": "Named a Leader in the IDC MarketScape: Worldwide Client Endpoint Management Software for Windows Device Management 2025–2026 Vendor Assessment for the second time."},
+    {"date": "January 2026", "title": "Leader in inaugural Gartner Magic Quadrant for Endpoint Management Tools", "desc": "The Tanium Autonomous IT Platform recognized as a Leader in the first-ever Gartner MQ for this category."},
+    {"date": "November 18, 2025", "title": "AI innovations to power Autonomous IT unveiled at Converge", "desc": "Tanium introduced a set of AI capabilities aimed at advancing autonomous IT and operational resilience across the platform."}
+  ],
+  "products": [
+    {"title": "Tanium Atlas — Autonomous Operating System", "desc": "Built on a complete, high-fidelity, real-time, and extensible endpoint data foundation: covers every device, captured at the source, answered in seconds, and open to any model, agent, or workflow."},
+    {"title": "Tanium Guardian Spotlight", "desc": "Strengthens AI governance with real-time visibility into AI tools, local LLMs, MCP servers, and AI model files across Windows, macOS, and Linux endpoints — surfacing risks such as misconfigured MCP servers."},
+    {"title": "Tanium AI — Enrichment & Analysis", "desc": "Two new competency categories that transform alerts and raw datasets into clear, actionable intelligence, adding context from the platform and trusted external sources."},
+    {"title": "Autonomous IT Platform (AEM)", "desc": "Converged Endpoint Management foundation spanning Security Operations, Exposure Management, and Endpoint Management — the basis for Tanium's autonomous, outcome-based operations."},
+    {"title": "ITOM AI Prime powered by Tanium (ServiceNow)", "desc": "Bundled offering uniting the Tanium platform with ServiceNow ITOM to automate endpoint patching and remediation end to end."}
+  ],
+  "competitors": [
+    {"name": "Microsoft Intune / Defender", "strength": "Bundled cost advantage for Microsoft-centric estates; cloud-native UEM plus EDR in one ecosystem", "advantage": "Real-time, single-agent reach across every OS at massive scale; depth in IT ops, not just management", "level": "HIGH"},
+    {"name": "CrowdStrike Falcon", "strength": "Endpoint detection & response leader; AI-native security platform and strong brand", "advantage": "Converged IT operations + security from one high-fidelity data source; superior visibility and remediation", "level": "HIGH"},
+    {"name": "Ivanti / HCL BigFix", "strength": "Established legacy endpoint management and patching footprint in large enterprises", "advantage": "Modern real-time architecture, autonomous platform, and analyst leadership vs. aging stacks", "level": "MEDIUM"},
+    {"name": "Automox / NinjaOne", "strength": "Lightweight, fast-to-deploy, cost-effective patching for SMB and mid-market", "advantage": "Enterprise scale, breadth across security and IT ops, and autonomous AI-driven operations", "level": "LOW"}
+  ],
+  "footer": "Generated from public web sources for internal competitive-intelligence use. Private-company financials are estimates and vary by source."
+}

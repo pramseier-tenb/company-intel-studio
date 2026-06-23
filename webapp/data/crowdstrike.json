@@ -1,0 +1,39 @@
+{
+  "company": "CrowdStrike",
+  "title": "CrowdStrike Intelligence Briefing",
+  "artifact_name": "CrowdStrike Daily Intel",
+  "badge": "NASDAQ: CRWD",
+  "updated": "June 1, 2026",
+  "description": "Daily CrowdStrike intelligence briefing with news, product updates, competitive landscape, and a financial snapshot.",
+  "theme": {"dark": "#8b0000", "accent": "#c1121f", "light_row": "#faf6f6", "border": "#f0d4d6"},
+  "financials": [
+    {"label": "Analyst Consensus", "value": "BUY", "sub": "44 analysts · mostly Buy"},
+    {"label": "Avg Price Target", "value": "$566.50", "sub": "~34% upside"},
+    {"label": "Ending ARR", "value": "$5.25B", "sub": "+24% YoY"},
+    {"label": "FY27 Revenue Guidance", "value": "$5.87–5.93B", "sub": "+22–23%"},
+    {"label": "Net New ARR (Q4)", "value": "$331M", "sub": "+47% YoY"}
+  ],
+  "news": [
+    {"date": "June 3, 2026", "title": "Q1 FY2027 earnings date set", "desc": "CrowdStrike will report fiscal Q1 2027 results (quarter ended April 30, 2026) after market close on Wednesday, June 3, 2026."},
+    {"date": "May 29, 2026", "title": "Named a Leader in 2026 Gartner Magic Quadrant for Endpoint Protection", "desc": "CrowdStrike was recognized as a Leader for the seventh consecutive time."},
+    {"date": "May 28, 2026", "title": "Project QuiltWorks expands with cyber insurance leaders", "desc": "The initiative grows to help combat financial exposure to frontier AI risk alongside cyber insurance industry partners."},
+    {"date": "May 26, 2026", "title": "Leader and Fast Mover in 2026 GigaOm Radar for ITDR", "desc": "CrowdStrike earned perfect 5/5 scores across key criteria in identity threat detection and response."},
+    {"date": "May 21, 2026", "title": "New integration with Claude's Compliance API", "desc": "Brings Claude activity into the Falcon platform for unified detection, response, and governance across enterprise AI usage."},
+    {"date": "May 6, 2026", "title": "2026 Americas Partner of the Year Awards announced", "desc": "Winners recognized at the Americas Partner Symposium for driving growth with the Falcon platform."},
+    {"date": "May 5, 2026", "title": "Falcon OverWatch for Defender launched", "desc": "Extends CrowdStrike's managed threat hunting to Microsoft Endpoint customers."}
+  ],
+  "products": [
+    {"title": "Falcon Platform Spring '26 Release", "desc": "Adds AI-native threat detection and governance across endpoints, cloud, browser, identity, and SaaS, plus an Agentic SOC transformation with Next-Gen SIEM, Agentic MDR, and the AgentWorks custom agent builder."},
+    {"title": "Falcon Data Security", "desc": "Discovers, classifies, and stops data theft in real time across the agentic enterprise, with AI-powered classification and GenAI data-leak protection for managed and unmanaged tools."},
+    {"title": "AI Agent Security suite", "desc": "Introduces EDR AI Runtime Protection, Shadow AI Discovery, and AIDR for Endpoint — extending to Microsoft Copilot, Salesforce Agentforce, and ChatGPT Enterprise."},
+    {"title": "Cloud Risk Engine & Application Explorer", "desc": "Links cloud exposures to adversary tactics and provides integrated visibility across applications and supporting cloud systems."},
+    {"title": "Browser security via Seraphic acquisition", "desc": "The January 2026 acquisition of Seraphic Security brings runtime protection directly into the browser."}
+  ],
+  "competitors": [
+    {"name": "SentinelOne", "strength": "Closest feature-level rival; perfect MITRE ATT&CK detection/protection results; AI-native positioning", "advantage": "Larger scale, broader unified platform, stronger brand and MDR ecosystem", "level": "HIGH"},
+    {"name": "Microsoft Defender", "strength": "Bundled cost advantage for M365 E5 customers; detection efficacy now competes directly with Falcon", "advantage": "Best-of-breed depth, cross-platform coverage, and dedicated threat hunting (OverWatch)", "level": "HIGH"},
+    {"name": "Palo Alto Cortex XDR", "strength": "Tight integration with Palo Alto firewalls for network-endpoint correlation", "advantage": "Stronger standalone EDR; broader agentic platform; not dependent on network stack", "level": "MEDIUM"},
+    {"name": "Trend Micro / Sophos", "strength": "Competitive pricing and SMB/mid-market reach", "advantage": "Superior enterprise scale, AI/agentic innovation, and analyst leadership", "level": "LOW"}
+  ],
+  "footer": "Generated from public web sources for internal competitive-intelligence use."
+}
