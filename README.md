@@ -14,7 +14,7 @@ This repo ships two ways to use the same engine:
 
 Both share the same generator, `build_brief.py`, so output is identical everywhere.
 
-![Four briefs ship preloaded: CrowdStrike, Tanium, Vectra AI, Brinqa.](#)
+**Four briefs ship preloaded: CrowdStrike, Tanium, Vectra AI, Brinqa.**
 
 ## Quick start (web app)
 
